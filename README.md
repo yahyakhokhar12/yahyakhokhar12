@@ -134,28 +134,50 @@ Full-stack clothing brand website with a responsive UI, product catalog, and com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yahyakhokhar12&show_icons=true&theme=radical&hide_border=true&rank_icon=github&custom_title=Yahya's%20GitHub%20Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyakhokhar12&layout=compact&theme=radical&hide_border=true" height="180"/>
+<!-- GitHub Stats -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=yahyakhokhar12&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+  height="180"
+  alt="Yahya's GitHub Stats"
+/>
 
-<img src="https://streak-stats.demolab.com?user=yahyakhokhar12&theme=radical&hide_border=true" />
-
-<img src="https://img.shields.io/badge/2026_Contributions-102-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+<!-- Top Languages -->
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyakhokhar12&layout=compact&theme=radical&hide_border=true&langs_count=8"
+  height="180"
+  alt="Top Languages"
+/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=yahyakhokhar12&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" />
+<!-- GitHub Streak -->
+<img
+  src="https://streak-stats.demolab.com/?user=yahyakhokhar12&theme=radical&hide_border=true"
+  width="70%"
+  alt="GitHub Streak"
+/>
 
-<br/>
+<br/><br/>
+
+<!-- GitHub Trophies -->
+<img
+  src="https://github-profile-trophy.vercel.app/?username=yahyakhokhar12&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
+  width="90%"
+  alt="GitHub Trophies"
+/>
+
+<br/><br/>
 
 #### 📊 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yahyakhokhar12&theme=radical&hide_border=true&area=true" width="100%"/>
+<!-- Contribution Graph -->
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=yahyakhokhar12&theme=react-dark&hide_border=true&area=true&custom_title=Yahya's%20Contribution%20Activity"
+  width="100%"
+  alt="GitHub Contribution Activity"
+/>
 
 </div>
-
-> ℹ️ These cards pull live from GitHub's public API and only show *public* activity. If a card still breaks, it's almost always a wrong username, a repo set to hide contributions from the profile, or the service being briefly down — retry, or check live stats on your [GitHub profile](https://github.com/yahyakhokhar12).
-
----
 
 ### 🐍 Contribution Snake
 
