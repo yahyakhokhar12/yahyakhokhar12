@@ -124,7 +124,9 @@ Full-stack clothing brand website with a responsive UI, product catalog, and com
 </tr>
 </table>
 
-> 💡 Replace the project cards above with links to your actual repos once pushed — e.g. `[AI BDOS](https://github.com/yahyakhokhar12/ai-bdos)` — so visitors can click straight into the code.
+> [AI BDOS](https://github.com/ansabdullahdeveloper-cloud/aai-bdos)
+> [AstraCart](https://github.com/yahyakhokhar12/AstraCart)
+> [Meem-Mumtaz](https://github.com/yahyakhokhar12/luxury-store)
 
 ---
 
