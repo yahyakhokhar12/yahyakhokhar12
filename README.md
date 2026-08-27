@@ -134,48 +134,80 @@ Full-stack clothing brand website with a responsive UI, product catalog, and com
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=yahyakhokhar12&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-  height="180"
-  alt="Yahya's GitHub Stats"
-/>
+<table>
+<tr>
+<td align="center" width="25%">
 
-<!-- Top Languages -->
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyakhokhar12&layout=compact&theme=radical&hide_border=true&langs_count=8"
-  height="180"
-  alt="Top Languages"
-/>
+### 📊 Contributions
 
-<br/><br/>
+# 106
 
-<!-- GitHub Streak -->
-<img
-  src="https://streak-stats.demolab.com/?user=yahyakhokhar12&theme=radical&hide_border=true"
-  width="70%"
-  alt="GitHub Streak"
-/>
+**Total Contributions**
 
-<br/><br/>
+Jul 15, 2025 – Present
 
-<!-- GitHub Trophies -->
-<img
-  src="https://github-profile-trophy.vercel.app/?username=yahyakhokhar12&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15"
-  width="90%"
-  alt="GitHub Trophies"
-/>
+</td>
 
-<br/><br/>
+<td align="center" width="25%">
+
+### 🔥 Current Streak
+
+# 2
+
+**Days**
+
+Aug 26 – Aug 27, 2026
+
+</td>
+
+<td align="center" width="25%">
+
+### 🏆 Longest Streak
+
+# 3
+
+**Days**
+
+Jun 12 – Jun 14, 2026
+
+</td>
+
+<td align="center" width="25%">
+
+### 💻 2026
+
+# 102
+
+**Contributions**
+
+</td>
+</tr>
+</table>
+
+<br>
 
 #### 📊 Contribution Activity
 
-<!-- Contribution Graph -->
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=yahyakhokhar12&theme=react-dark&hide_border=true&area=true&custom_title=Yahya's%20Contribution%20Activity"
-  width="100%"
-  alt="GitHub Contribution Activity"
-/>
+| Period | Contributions |
+|:---|---:|
+| 2026 | **102** |
+| Jul 15–Dec 31, 2025 | **4** |
+| **Total** | **106** |
+
+<br>
+
+> 📌 **GitHub Contribution Summary**
+>
+> **106 total contributions** from **Jul 15, 2025 – Present**  
+> **102 contributions** in **2026**  
+> **Current streak:** 2 days  
+> **Longest streak:** 3 days
+
+<br>
+
+<a href="https://github.com/yahyakhokhar12">
+<img src="https://img.shields.io/badge/GitHub-yahyakhokhar12-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
