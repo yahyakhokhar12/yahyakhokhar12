@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Muhammad+Yahya+Khokhar;AI+%2F+LLM+Developer;Business+Intelligence+Analyst;Full-Stack+Developer" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Yahya%20Khokhar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FLLM%20Developer%20%7C%20BI%20Analyst%20%7C%20Full-Stack%20Dev&descAlignY=55&descSize=18" width="100%"/>
 
-### Building autonomous AI systems that go beyond chatbots — tools that handle real business workflows end-to-end.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&color=B166FF&center=true&vCenter=true&width=700&lines=Building+Autonomous+AI+Systems...;Multi-Model+Orchestration+%7C+RAG;Turning+Data+Into+Decisions;Business+Intelligence+%2B+AI+%3D+AI+BDOS" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/dynamic/json?color=8A2BE2&style=for-the-badge&label=PROFILE&query=$.status&url=https://api.github.com&logo=github&logoColor=white&suffix=%20ONLINE" />
 
 <p>
 <a href="https://www.linkedin.com/in/muhammad-yahya-khokhar-aa2b4535b">
@@ -16,7 +20,7 @@
 </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
 </div>
 
@@ -40,6 +44,20 @@ ask_me_about:     RAG, vector databases, multi-model orchestration, Power BI/DAX
 
 <div align="center">
 
+**Development**
+
+<img src="https://skillicons.dev/icons?i=py,java,js,react,nodejs,express,mongodb&theme=dark" />
+
+<br/><br/>
+
+**Business Intelligence & Data**
+
+<img src="https://skillicons.dev/icons?i=powerbi,mysql&theme=dark" />
+<img src="https://img.shields.io/badge/-DAX-F2C811?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<br/><br/>
+
 **AI / LLM**
 
 <img src="https://img.shields.io/badge/-RAG-8A2BE2?style=for-the-badge"/>
@@ -49,23 +67,10 @@ ask_me_about:     RAG, vector databases, multi-model orchestration, Power BI/DAX
 <img src="https://img.shields.io/badge/-Multi--Model%20Orchestration-8A2BE2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/-Open--Source%20LLMs-8A2BE2?style=for-the-badge"/>
 
-**Business Intelligence & Data**
+</div>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/-DAX-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
-**Development**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 </div>
 
 ---
@@ -127,16 +132,38 @@ Full-stack clothing brand website with a responsive UI, product catalog, and com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yahyakhokhar12&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyakhokhar12&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yahyakhokhar12&show_icons=true&theme=radical&hide_border=true&rank_icon=github&custom_title=Yahya's%20GitHub%20Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyakhokhar12&layout=compact&theme=radical&hide_border=true" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yahyakhokhar12&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=yahyakhokhar12&theme=radical&hide_border=true" />
 
 <img src="https://img.shields.io/badge/2026_Contributions-102-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
 
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yahyakhokhar12&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" />
+
+<br/>
+
+#### 📊 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yahyakhokhar12&theme=radical&hide_border=true&area=true" width="100%"/>
+
 </div>
 
-> ℹ️ If the stat cards above show as broken images, it's usually GitHub's stats API being rate-limited or temporarily down (not a bad link) — refresh the page after a minute, or view live stats directly on your [GitHub profile](https://github.com/yahyakhokhar12).
+> ℹ️ These cards pull live from GitHub's public API and only show *public* activity. If a card still breaks, it's almost always a wrong username, a repo set to hide contributions from the profile, or the service being briefly down — retry, or check live stats on your [GitHub profile](https://github.com/yahyakhokhar12).
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yahyakhokhar12/yahyakhokhar12/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+> ⚙️ **Setup required (one-time, ~2 min):** this animated snake isn't a hosted service — it's generated by a GitHub Action running *in your own repo*. Add [`Platane/snk`](https://github.com/Platane/snk) as a workflow in your `yahyakhokhar12/yahyakhokhar12` repo and it'll auto-render your contribution graph as an eating snake on every push. I can write that workflow file for you if you'd like — just say the word.
 
 ---
 
@@ -171,6 +198,10 @@ Full-stack clothing brand website with a responsive UI, product catalog, and com
 
 <img src="https://komarev.com/ghpvc/?username=yahyakhokhar12&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=8A2BE2&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!;Let's+build+something+autonomous." />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
