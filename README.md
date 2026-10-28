@@ -12,9 +12,9 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=45&lines=Engineering+intelligent+systems%2C+not+just+prompts.;Multi-model+orchestration+%7C+RAG+%7C+AI+agents;Turning+business+data+into+actionable+insights.;Building+AI+BDOS+%7C+Full-stack+development" alt="Animated developer introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&height=50&lines=Engineering+intelligent+systems%2C+not+just+prompts.;Multi-model+orchestration+%7C+RAG+%7C+AI+agents;Turning+business+data+into+actionable+insights.;Building+AI+BDOS+%7C+Full-stack+development" alt="Animated developer introduction"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/muhammad-yahya-khokhar-aa2b4535b">
 <img src="https://img.shields.io/badge/LINKEDIN-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"/>
@@ -42,28 +42,28 @@
 class YahyaKhokhar:
     role = "ML/AI Developer @ Comsats TechNest"
 
-    interests = [
-        "Applied AI & LLM Systems",
+    specializations = [
+        "Applied AI & LLM Engineering",
         "Multi-Model Orchestration",
         "Retrieval-Augmented Generation",
         "Business Intelligence",
-        "Full-Stack Engineering",
+        "Full-Stack Development",
     ]
 
-    currently_building = "AI BDOS"
+    current_project = "AI BDOS"
 
     philosophy = "Build systems that turn intelligence into action."
 ```
 
 I'm a Computer Science undergraduate working at the intersection of **AI engineering, business intelligence, and full-stack development**.
 
-At **Comsats TechNest**, I work on **AI BDOS** — a multi-model Business Development Operating System designed to automate client discovery and outreach, manage conversations, escalate sensitive cases to humans, schedule meetings, and handle deadline alerts.
+At **Comsats TechNest**, I work on **AI BDOS**, a multi-model Business Development Operating System designed to automate client discovery and outreach, handle conversations, escalate sensitive cases to humans, schedule meetings, and manage deadline alerts.
 
-My focus is on building practical systems that connect AI capabilities with real business workflows, supported by reliable data pipelines and usable software.
+I enjoy building practical software that connects AI capabilities with real business workflows, reliable data pipelines, and measurable outcomes.
 
-- **AI engineering:** RAG pipelines, semantic search, vector databases, and agent orchestration.
-- **Business intelligence:** Power BI dashboards, DAX, SQL, and business performance analytics.
-- **Software engineering:** React, Node.js, APIs, databases, and end-to-end application development.
+- **AI engineering:** RAG pipelines, embeddings, semantic search, vector databases, and agent orchestration.
+- **Business intelligence:** Power BI dashboards, DAX, SQL, and financial and operational analytics.
+- **Software engineering:** React, Node.js, APIs, database integration, and end-to-end application development.
 
 ---
 
@@ -76,13 +76,13 @@ My focus is on building practical systems that connect AI capabilities with real
 <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
 <img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=A78BFA" alt="LLMs"/>
 <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" alt="RAG"/>
-<img src="https://img.shields.io/badge/Vector_Search-0D1117?style=for-the-badge&logo=databricks&logoColor=A78BFA" alt="Vector search"/>
 <img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logo=probot&logoColor=A78BFA" alt="AI agents"/>
+<img src="https://img.shields.io/badge/Vector_Search-0D1117?style=for-the-badge&logo=databricks&logoColor=A78BFA" alt="Vector search"/>
 <img src="https://img.shields.io/badge/Orchestration-0D1117?style=for-the-badge&logo=langchain&logoColor=A78BFA" alt="Orchestration"/>
 
 ### Full-Stack Development
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,java,git,github,vercel&theme=dark&perline=10" alt="Development technologies"/>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,java,git,github,vercel&theme=dark&perline=10" alt="Full-stack technologies"/>
 
 ### Data & Business Intelligence
 
@@ -95,80 +95,72 @@ My focus is on building practical systems that connect AI capabilities with real
 
 ---
 
-## `03 / SELECTED WORK`
+## `03 / SELECTED PROJECTS`
 
 ### 01. AI BDOS
 
-**Multi-Model Business Development Operating System**
+**Business Development Operating System**
 
 <a href="https://github.com/ansabdullahdeveloper-cloud/aai-bdos">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-6D28D9?style=flat-square&logo=github&logoColor=white" alt="Explore AI BDOS"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6D28D9?style=flat-square&logo=github&logoColor=white" alt="View AI BDOS repository"/>
 </a>
 
-An AI-driven business development system built around coordinated models and automated workflows.
+A multi-model AI system designed to automate business development workflows, from client discovery to meeting coordination.
 
-- Client discovery and outreach automation.
+- Automated client discovery and outreach.
 - Conversation handling and human escalation.
 - Meeting scheduling and deadline notifications.
-- Multi-agent orchestration for business workflows.
+- Coordinated AI workflows and model orchestration.
 
 `LLMs` `AI Agents` `Orchestration` `Automation`
-
----
 
 ### 02. AstraCart
 
 **MERN E-Commerce Platform with an Agentic RAG Chatbot**
 
 <a href="https://github.com/yahyakhokhar12/AstraCart">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-6D28D9?style=flat-square&logo=github&logoColor=white" alt="Explore AstraCart"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6D28D9?style=flat-square&logo=github&logoColor=white" alt="View AstraCart repository"/>
 </a>
 
-A full-stack e-commerce application combining shopping functionality, administration tools, and an AI-powered conversational shopping experience.
+A full-stack e-commerce platform combining shopping functionality, administration tools, and an AI-powered conversational shopping experience.
 
-- Customer-facing e-commerce experience.
+- Customer-facing shopping experience.
 - Product and administrative functionality.
-- AI chatbot using retrieval-augmented generation.
+- Retrieval-augmented conversational assistance.
 
 `React` `Node.js` `MongoDB` `RAG`
-
----
 
 ### 03. RAG-Based AI Chatbot
 
 **Context-Aware Question Answering**
 
-An end-to-end retrieval-augmented generation pipeline that combines document retrieval, semantic search, and language-model generation to provide context-grounded responses.
+An AI chatbot architecture that combines document retrieval, semantic search, and language-model generation to produce context-grounded responses.
 
-- Document retrieval and contextual prompting.
-- Semantic search using embeddings.
+- Embedding-based retrieval.
 - Vector database integration.
+- Context-aware response generation.
 
-`Embeddings` `Vector Databases` `Semantic Search` `LLMs`
-
----
+`Python` `Embeddings` `Vector Databases` `LLMs`
 
 ### 04. Enterprise Power BI Suite
 
-**Operational and Financial Analytics**
+**Operational & Financial Analytics**
 
-A collection of 6+ business dashboards covering sales backlog, order performance, revenue, EBITDA, and working capital, using SQL and advanced DAX measures.
+A collection of 6+ dashboards covering sales backlog, order performance, revenue, EBITDA, and working capital.
 
-- Sales backlog and order performance.
-- Revenue and profitability analysis.
-- Working capital and financial KPIs.
+- Sales and order performance monitoring.
+- Financial KPIs and profitability analysis.
+- Advanced DAX measures and SQL-driven analytics.
 - Business reporting and decision support.
 
 `Power BI` `DAX` `SQL` `Business Analytics`
-
----
 
 ### 05. Meem-Mumtaz
 
 **MERN Clothing Storefront**
 
 <a href="https://github.com/yahyakhokhar12/luxury-store">
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-6D28D9?style=flat-square&logo=github&logoColor=white" alt="Explore Meem-Mumtaz"/>
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-6D28D9?style=flat-square&logo=github&logoColor=white" alt="View Meem-Mumtaz repository"/>
 </a>
 
 A clothing storefront built with the MERN stack.
@@ -181,21 +173,16 @@ A clothing storefront built with the MERN stack.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=yahyakhokhar12&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&include_all_commits=true&rank_icon=github" alt="GitHub statistics"/>
+<a href="https://github.com/yahyakhokhar12">
+<img src="https://github-readme-stats.vercel.app/api?username=yahyakhokhar12&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&hide=contribs,issues&rank_icon=github" width="49%" alt="GitHub profile statistics"/>
+</a>
+<a href="https://github.com/yahyakhokhar12">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyakhokhar12&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=6" width="49%" alt="Most-used programming languages"/>
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yahyakhokhar12&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" alt="Most-used languages"/>
+<br/><br/>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=yahyakhokhar12&theme=transparent&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" alt="Contribution streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yahyakhokhar12&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=312E81&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" width="100%" alt="Contribution activity graph"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=yahyakhokhar12&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="100%" alt="GitHub achievements"/>
+<img src="https://streak-stats.demolab.com?user=yahyakhokhar12&theme=transparent&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=C9D1D9&dates=8B949E" width="80%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -209,6 +196,10 @@ A clothing storefront built with the MERN stack.
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/yahyakhokhar12/yahyakhokhar12/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/yahyakhokhar12/yahyakhokhar12/output/github-contribution-grid-snake.svg"
   />
   <img
     src="https://raw.githubusercontent.com/yahyakhokhar12/yahyakhokhar12/output/github-contribution-grid-snake.svg"
@@ -240,20 +231,18 @@ A clothing storefront built with the MERN stack.
 
 Interested in AI systems, intelligent automation, and data-driven products?
 
-I'm open to collaborating on meaningful AI projects, engineering solutions, and freelance opportunities.
+I'm open to collaborating on meaningful AI projects, software engineering, and freelance opportunities.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/muhammad-yahya-khokhar-aa2b4535b">
 <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
-
 <a href="https://my-portfolio-sand-eight-67.vercel.app/">
 <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Visit portfolio"/>
 </a>
-
 <a href="mailto:yahyakhokhar49@gmail.com">
-<img src="https://img.shields.io/badge/LET'S_TALK-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email me"/>
+<img src="https://img.shields.io/badge/GET_IN_TOUCH-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/>
 </a>
 
 <br/><br/>
