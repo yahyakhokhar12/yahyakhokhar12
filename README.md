@@ -1,13 +1,13 @@
 
 <!-- =========================================================
-     YAHYA KHOKHAR | DEVELOPER PROFILE
-     Theme: Graphite / Violet
+     YAHYA KHOKHAR | PROFESSIONAL GITHUB PROFILE
+     Theme: Graphite + Violet
 ========================================================== -->
 
 <div align="center">
 
 <a href="https://github.com/yahyakhokhar12">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=240&text=YAHYA%20KHOKHAR&fontSize=54&fontColor=FFFFFF&fontAlignY=40&desc=AI%20SYSTEMS%20%7C%20LLM%20ENGINEERING%20%7C%20BUSINESS%20INTELLIGENCE&descSize=13&descAlignY=60&color=0:0D1117,45:312E81,100:7C3AED&animation=fadeIn" width="100%" alt="Yahya Khokhar — AI Systems Developer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,100:7C3AED&height=270&section=header&text=YAHYA%20KHOKHAR&fontSize=48&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=AI%20SYSTEMS%20%7C%20LLM%20ENGINEERING%20%7C%20BUSINESS%20INTELLIGENCE&descSize=13&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Yahya Khokhar — AI Systems Developer"/>
 </a>
 
 <br/>
@@ -17,13 +17,13 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/muhammad-yahya-khokhar-aa2b4535b">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=A78BFA" alt="LinkedIn"/>
 </a>
 <a href="https://my-portfolio-sand-eight-67.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Explore-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-Explore-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Portfolio"/>
 </a>
 <a href="mailto:yahyakhokhar49@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/>
+<img src="https://img.shields.io/badge/EMAIL-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email"/>
 </a>
 
 <br/><br/>
@@ -73,15 +73,16 @@ My focus is on building practical systems that connect AI capabilities with real
 
 ### AI & Intelligent Systems
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=A78BFA" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python"/>
 <img src="https://img.shields.io/badge/LLMs-0D1117?style=for-the-badge&logo=openai&logoColor=A78BFA" alt="LLMs"/>
 <img src="https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" alt="RAG"/>
 <img src="https://img.shields.io/badge/Vector_Search-0D1117?style=for-the-badge&logo=databricks&logoColor=A78BFA" alt="Vector search"/>
 <img src="https://img.shields.io/badge/AI_Agents-0D1117?style=for-the-badge&logo=probot&logoColor=A78BFA" alt="AI agents"/>
+<img src="https://img.shields.io/badge/Orchestration-0D1117?style=for-the-badge&logo=langchain&logoColor=A78BFA" alt="Orchestration"/>
 
 ### Full-Stack Development
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,java,git,github&theme=dark" alt="Development technologies"/>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,java,git,github,vercel&theme=dark&perline=10" alt="Development technologies"/>
 
 ### Data & Business Intelligence
 
@@ -98,10 +99,10 @@ My focus is on building practical systems that connect AI capabilities with real
 
 ### 01. AI BDOS
 
-**Multi-model Business Development Operating System**
+**Multi-Model Business Development Operating System**
 
 <a href="https://github.com/ansabdullahdeveloper-cloud/aai-bdos">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-6D28D9?style=flat-square&logo=github&logoColor=white" alt="Explore AI BDOS"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-6D28D9?style=flat-square&logo=github&logoColor=white" alt="Explore AI BDOS"/>
 </a>
 
 An AI-driven business development system built around coordinated models and automated workflows.
@@ -120,10 +121,14 @@ An AI-driven business development system built around coordinated models and aut
 **MERN E-Commerce Platform with an Agentic RAG Chatbot**
 
 <a href="https://github.com/yahyakhokhar12/AstraCart">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-6D28D9?style=flat-square&logo=github&logoColor=white" alt="Explore AstraCart"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-6D28D9?style=flat-square&logo=github&logoColor=white" alt="Explore AstraCart"/>
 </a>
 
 A full-stack e-commerce application combining shopping functionality, administration tools, and an AI-powered conversational shopping experience.
+
+- Customer-facing e-commerce experience.
+- Product and administrative functionality.
+- AI chatbot using retrieval-augmented generation.
 
 `React` `Node.js` `MongoDB` `RAG`
 
@@ -131,9 +136,13 @@ A full-stack e-commerce application combining shopping functionality, administra
 
 ### 03. RAG-Based AI Chatbot
 
-**Context-aware question answering with retrieval**
+**Context-Aware Question Answering**
 
 An end-to-end retrieval-augmented generation pipeline that combines document retrieval, semantic search, and language-model generation to provide context-grounded responses.
+
+- Document retrieval and contextual prompting.
+- Semantic search using embeddings.
+- Vector database integration.
 
 `Embeddings` `Vector Databases` `Semantic Search` `LLMs`
 
@@ -141,9 +150,14 @@ An end-to-end retrieval-augmented generation pipeline that combines document ret
 
 ### 04. Enterprise Power BI Suite
 
-**Operational and financial analytics**
+**Operational and Financial Analytics**
 
 A collection of 6+ business dashboards covering sales backlog, order performance, revenue, EBITDA, and working capital, using SQL and advanced DAX measures.
+
+- Sales backlog and order performance.
+- Revenue and profitability analysis.
+- Working capital and financial KPIs.
+- Business reporting and decision support.
 
 `Power BI` `DAX` `SQL` `Business Analytics`
 
@@ -154,7 +168,7 @@ A collection of 6+ business dashboards covering sales backlog, order performance
 **MERN Clothing Storefront**
 
 <a href="https://github.com/yahyakhokhar12/luxury-store">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-6D28D9?style=flat-square&logo=github&logoColor=white" alt="Explore Meem-Mumtaz"/>
+<img src="https://img.shields.io/badge/EXPLORE_PROJECT-6D28D9?style=flat-square&logo=github&logoColor=white" alt="Explore Meem-Mumtaz"/>
 </a>
 
 A clothing storefront built with the MERN stack.
@@ -191,7 +205,17 @@ A clothing storefront built with the MERN stack.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yahyakhokhar12/yahyakhokhar12/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/yahyakhokhar12/yahyakhokhar12/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/yahyakhokhar12/yahyakhokhar12/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="Animated GitHub contribution snake"
+  />
+</picture>
 
 </div>
 
@@ -212,26 +236,32 @@ A clothing storefront built with the MERN stack.
 
 <div align="center">
 
-**Interested in AI systems, intelligent automation, and data-driven products?**
+### Building at the intersection of intelligence, data, and software.
+
+Interested in AI systems, intelligent automation, and data-driven products?
 
 I'm open to collaborating on meaningful AI projects, engineering solutions, and freelance opportunities.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/muhammad-yahya-khokhar-aa2b4535b">
-  <img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 
 <a href="https://my-portfolio-sand-eight-67.vercel.app/">
-  <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Visit portfolio"/>
+<img src="https://img.shields.io/badge/VISIT_PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=A78BFA" alt="Visit portfolio"/>
+</a>
+
+<a href="mailto:yahyakhokhar49@gmail.com">
+<img src="https://img.shields.io/badge/LET'S_TALK-0D1117?style=for-the-badge&logo=gmail&logoColor=A78BFA" alt="Email me"/>
 </a>
 
 <br/><br/>
 
-<sub>Building at the intersection of intelligence, data, and software.</sub>
+<sub>Designing intelligent systems. Engineering practical solutions.</sub>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:7C3AED&height=120&section=footer" width="100%" alt="Violet gradient footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:312E81,100:7C3AED&height=140&section=footer" width="100%" alt="Violet gradient footer"/>
 
 </div>
